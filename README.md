@@ -34,4 +34,4 @@ $ npm run test
 
 ## Informações adicionais
 
-Link do app: https://github-app-test.com
+Link do app: https://lucas-soares-dev.github.io/github-app
