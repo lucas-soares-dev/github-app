@@ -34,4 +34,4 @@ $ npm run test
 
 ## Informações adicionais
 
-Link do app: https://github-app-ruddy-nine.vercel.app
+Link do app: https://github-app-lucas-soares.vercel.app/
