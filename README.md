@@ -32,6 +32,14 @@ $ npm run test
 - Axios
 - FontAwesome
 
+## Melhorias
+
+- Finalizar a implementação dos testes
+- Implementar filtros de ordenação dos repositórios
+- Tratamento das mensagens de erros
+- Melhorar a exibição de tags das issues
+- Suporte a multi idiomas
+
 ## Informações adicionais
 
-Link do app: https://github-app-lucas-soares.vercel.app/
+Link do app: https://github-app-lucas-soares.vercel.app
